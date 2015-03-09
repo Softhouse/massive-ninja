@@ -1,0 +1,22 @@
+{
+  "name": "front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Softhouse/massive-ninja.git"
+  },
+  "author": "Joakim Carlstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Softhouse/massive-ninja/issues"
+  },
+  "homepage": "https://github.com/Softhouse/massive-ninja",
+  "dependencies": {
+    "express": "^4.12.2"
+  }
+}
